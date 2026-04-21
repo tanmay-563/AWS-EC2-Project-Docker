@@ -1,0 +1,13 @@
+{
+  "name": "stateful-feedback-app",
+  "version": "1.0.0",
+  "description": "Minimal Express and MySQL feedback app for disaster recovery demos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.4"
+  }
+}
